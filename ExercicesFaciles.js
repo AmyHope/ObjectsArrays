@@ -8,5 +8,10 @@ console.log(fruits[1]);
 let numbers = [10, 20, 30, 40];
 numbers [2]= 50;
 console.log(numbers);
+// Exercice 4 meth 1
+let fruit = ["mango", "peach", "pear"];
+fruit [3]= "kiwi";
+console.log(fruit);
+
 
 
