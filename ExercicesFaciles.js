@@ -16,5 +16,9 @@ console.log(fruit);
 let frt = ["mango", "peach", "pear"];
 frt.push("apple");
 console.log(frt);
+// Exercice 5 meth 1
+let animal = ["dog", "cat", "bird"];
+animal.pop();
+console.log(animal);
 
 
