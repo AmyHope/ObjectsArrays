@@ -28,6 +28,11 @@ console.log(animaux);
 let animals = ["dog", "cat", "bird"]
 animals.splice(animals.length - 1, 1);
 console.log(animals);
+// Exercice 5 meth 4
+let anim = ["dog", "cat", "bird"];
+anim.length = 2; 
+console.log(anim);  
+
 
 
 
