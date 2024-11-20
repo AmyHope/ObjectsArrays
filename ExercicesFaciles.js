@@ -20,5 +20,9 @@ console.log(frt);
 let animal = ["dog", "cat", "bird"];
 animal.pop();
 console.log(animal);
+// Exercice 5 meth 2
+let animaux = ["dog", "cat", "bird"];
+animaux.length = animaux.length - 1;
+console.log(animaux);
 
 
