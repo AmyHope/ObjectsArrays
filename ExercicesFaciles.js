@@ -52,6 +52,16 @@ const persona = {
   };
   console.log(persona.name);
   console.log(persona.age);
+// Exercice 8 
+let book = {
+    title: "JavaScript 101",
+    author: "John Doe"
+  };
+  console.log(book);
+  book.author = "Jane Doe";
+  console.log(book);
+
+  
 
 
 
