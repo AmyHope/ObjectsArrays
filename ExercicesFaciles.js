@@ -32,6 +32,13 @@ console.log(animals);
 let anim = ["dog", "cat", "bird"];
 anim.length = 2; 
 console.log(anim);  
+// Exercice 6 
+let personne = {
+    name: "Kaoutar",
+    age: 22
+  };
+  console.log("Nom: " + personne.name);
+  console.log("Age: " + personne.age);
 
 
 
