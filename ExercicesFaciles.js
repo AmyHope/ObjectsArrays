@@ -68,9 +68,12 @@ let car = {
   console.log(car);
   car.year = 2020;
   console.log(car);
-  
-
-
+// Exercice 10
+let Person = {
+    nom: "Taylor",
+    age: 28
+  };
+  console.log("age"in Person);
 
   
 
