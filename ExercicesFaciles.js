@@ -60,6 +60,17 @@ let book = {
   console.log(book);
   book.author = "Jane Doe";
   console.log(book);
+// Exercice 9
+let car = {
+    make: "Toyota",
+    model: "Corolla"
+  };
+  console.log(car);
+  car.year = 2020;
+  console.log(car);
+  
+
+
 
   
 
