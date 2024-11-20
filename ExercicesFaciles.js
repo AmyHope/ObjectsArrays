@@ -12,6 +12,9 @@ console.log(numbers);
 let fruit = ["mango", "peach", "pear"];
 fruit [3]= "kiwi";
 console.log(fruit);
-
+// Exercice 4 meth 2
+let frt = ["mango", "peach", "pear"];
+frt.push("apple");
+console.log(frt);
 
 
