@@ -41,13 +41,17 @@ let personne = {
   console.log("Age: " + personne.age);
 // Exercice 6 correction
 const person = { 
+    name: "Kaoutar",
+    age: 22
+  };
+  console.log(person);
+// Exercice 7
+const persona = { 
     name: "John",
     age: 25
   };
-  console.log(person.name);
-  console.log(person.age);
-  // Exercice 7
-
+  console.log(persona.name);
+  console.log(persona.age);
 
 
 
